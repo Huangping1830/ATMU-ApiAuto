@@ -43,7 +43,7 @@ def read_account(filename):
 if __name__ == "__main__":
     a = get_all_file()
     print(a)
-    # N = input("请输入需要清除几天前的日志：")
+
     t = time.strptime('2019-01-31', format='%Y-%m-%d')
     print(t)
     times = time.strptime('1 may 2020', '%d %B %Y')
