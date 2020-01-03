@@ -1,0 +1,35 @@
+{
+	  "url1":{
+	    "method":"POST",
+		"path":"/sp/purchase_count",
+		"body":{
+			"user_id": "123456",
+			"organization_id": "144",
+			"shop_id": "aeee5950-3126-0137-759c-0a58ac100332",
+			"cycle_type": "month",
+			"from_date": "2019-06-01",
+			"to_date": "2019-06-30"
+		}
+	  },
+	  "url2":{
+	    "method":"POST",
+	    "path":"/sp/purchase_order",
+		"header":{
+		"Content-Type": "application/json; charset=UTF-8",
+		"Host": "test.tmanai.com",
+		"Accept": "text/html, */*; q=0.01",
+		"X-Requested-With": "XMLHttpRequest",
+		"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36",
+		"Accept-Encoding": "gzip, deflate, sdch",
+		"Accept-Language": "zh-CN,zh;q=0.8,ja;q=0.6"
+		},
+		"body":{
+			"user_id": "123456",
+			"organization_id": "144",
+			"shop_id": "aeee5950-3126-0137-759c-0a58ac100332",
+			"cycle_type": "month",
+			"from_date": "2019-06-01",
+			"to_date": "2019-06-30"
+		}
+	  }
+}

@@ -1,0 +1,213 @@
+{
+  "getdata_new_old":{
+    "method":"GET",
+    "path":"/gp/new_old",
+    "test_body":{
+      "organization_id": "285",
+      "request_id":123456,
+      "statistical": [{"category":900,"type":902}]
+
+    },
+    "pro_body":{
+      "day":7,
+      "organization_id": "92",
+      "request_id":123456,
+      "statistical":[{"category":900,"type":902}]
+
+    }
+  },
+
+  "getdata_stage_life":{
+    "method":"GET",
+    "path":"/gp/stage_life",
+    "test_body":{
+      "organization_id": "285",
+      "request_id":123456,
+      "statistical": [{"category":900,"type":902}]
+
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "request_id":123456,
+      "statistical": [{"category":900,"type":902}]
+
+    }
+  },
+
+  "getdata_gender":{
+    "method":"GET",
+    "path":"/visitors/gender",
+    "test_body":{
+      "organization_id": "285",
+      "request_id":123456,
+      "statistical": [{"category":900,"type":902}]
+
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "request_id":123456,
+      "statistical": [{"category":900,"type":902}]
+
+    }
+  },
+
+  "getdata_go_shop_time": {
+     "method": "GET",
+     "path": "/gp/go_shop_time",
+     "test_body": {
+       "organization_id": "285",
+       "request_id":123456,
+       "statistical": [{"category":900,"type":902}],
+       "day": 90
+     },
+     "pro_body": {
+       "organization_id": "92",
+       "request_id":123456,
+       "statistical": [{"category":900,"type":902}],
+       "day": 90
+     }
+  },
+
+  "getdata_go_shop_data_range": {
+      "method": "GET",
+      "path": "/gp/go_shop_data_range",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      }
+  },
+
+  "getdata_go_diff_shop_count": {
+      "method": "GET",
+      "path": "/gp/go_diff_shop_count",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      }
+  },
+
+  "getdata_total_consume": {
+      "method": "GET",
+      "path": "/gp/total_consume",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      }
+  },
+
+  "getdata_avg_consume": {
+      "method": "GET",
+      "path": "/gp/avg_consume",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      }
+  },
+
+    "getdata_buy_count": {
+      "method": "GET",
+      "path": "/gp/buy_count",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      }
+  },
+
+  "getdata_brand_bpm": {
+      "method": "GET",
+      "path": "/gp/brand_bpm",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      }
+  },
+
+  "getdata_first_bpm": {
+      "method": "GET",
+      "path": "/gp/first_bpm",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      }
+  },
+
+  "getdata_second_bpm": {
+      "method": "GET",
+      "path": "/gp/second_bpm",
+      "test_body": {
+        "organization_id": "285",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902}],
+        "day": 90
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "request_id":123456,
+        "statistical": [{"category":900,"type":902},{"category":800,"type":801}],
+        "day": 90
+      }
+  },
+
+  "getdata_total_member_number": {
+      "method": "POST",
+      "path": "/gp/total_member_number",
+      "test_body": {"organization_id": "285"},
+      "pro_body": {"organization_id": "92"}
+  }
+}

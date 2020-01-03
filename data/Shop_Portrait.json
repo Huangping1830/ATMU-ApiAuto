@@ -1,0 +1,88 @@
+{
+  "getdata_shop_sales":{
+    "method":"GET",
+    "path":"/shop/shop_sales",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id":"e1cee658-e7ae-4635-995b-85f90a110747",
+      "cycle_type": "week"
+
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "cycle_type": "week"
+
+    }
+  },
+
+  "getdata_pct":{
+    "method":"GET",
+    "path":"/shop/pct",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id":"e1cee658-e7ae-4635-995b-85f90a110747",
+      "cycle_type": "week"
+
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "cycle_type": "week"
+    }
+  },
+
+  "getdata_shop_product_sales":{
+    "method":"GET",
+    "path":"/shop/shop_product_sales",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id":"e1cee658-e7ae-4635-995b-85f90a110747",
+      "cycle_type": "week",
+      "top_num":20
+
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "cycle_type": "week",
+      "top_num":20
+    }
+  },
+
+  "getdata_shop_second_category_sales": {
+    "method": "GET",
+    "path": "/shop/shop_second_category_sales",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id":"e1cee658-e7ae-4635-995b-85f90a110747",
+      "cycle_type": "week",
+      "top_num":20
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "cycle_type": "week",
+      "top_num":20
+    }
+  },
+    "getdata_customer_value": {
+    "method": "GET",
+    "path": "/shop/customer_value",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id":"e1cee658-e7ae-4635-995b-85f90a110747",
+      "cycle_type": "week"
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "cycle_type": "week"
+    }
+  }
+}
+ 
+ 
+ 
+
+ 

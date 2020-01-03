@@ -1,0 +1,132 @@
+{
+  "getdata_purchase_order":{
+    "method":"GET",
+    "path":"/sp/purchase_order",
+    "test_body":{
+      "user_id":"123456",
+      "organization_id":"285",
+      "shop_id":"c37269f3-d393-4864-afa7-0d159f8c114c",
+      "cycle_type":"week",
+      "from_date":"2019-12-23",
+      "to_date":"2019-12-29"
+    },
+    "pro_body":{
+	 "user_id":"123456",
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "cycle_type":"week",
+	 "from_date":"2019-12-23",
+	 "to_date":"2019-12-29"
+	}
+  },
+
+  "getdata_purchase_count":{
+    "method":"GET",
+    "path":"/sp/purchase_count",
+    "test_body":{
+      "user_id":"123456",
+      "organization_id":"285",
+      "shop_id":"c37269f3-d393-4864-afa7-0d159f8c114c",
+      "cycle_type":"week",
+      "from_date":"2019-12-23",
+      "to_date":"2019-12-29"
+    },
+    "pro_body":{
+	 "user_id":"123456",
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "cycle_type":"week",
+	 "from_date":"2019-12-23",
+	 "to_date":"2019-12-29"
+	}
+  },
+
+  "getdata_members_struct":{
+    "method":"GET",
+    "path":"/sp/members_struct",
+    "test_body":{
+      "user_id":"123456",
+      "organization_id":"285",
+      "shop_id":"c37269f3-d393-4864-afa7-0d159f8c114c",
+      "cycle_type":"week",
+      "from_date":"2019-12-23",
+      "to_date":"2019-12-29"
+    },
+    "pro_body":{
+	 "user_id":"123456",
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "cycle_type":"week",
+	 "from_date":"2019-12-23",
+	 "to_date":"2019-12-29"
+	}
+  },
+
+  "getdata_members_feature": {
+    "method": "GET",
+    "path": "/sp/members_feature",
+    "test_body":{
+      "user_id":"123456",
+      "organization_id":"285",
+      "shop_id":"c37269f3-d393-4864-afa7-0d159f8c114c",
+      "cycle_type":"week",
+      "from_date":"2019-12-23",
+      "to_date":"2019-12-29"
+    },
+    "pro_body":{
+	 "user_id":"123456",
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "cycle_type":"week",
+	 "from_date":"2019-12-23",
+	 "to_date":"2019-12-29"
+	}
+  },
+
+  "getdata_best_selling_list": {
+    "method": "GET",
+    "path": "/sp/best_selling_list",
+    "test_body":{
+      "user_id":"123456",
+      "organization_id":"285",
+      "shop_id":"c37269f3-d393-4864-afa7-0d159f8c114c",
+      "cycle_type":"week",
+      "from_date":"2019-12-23",
+      "to_date":"2019-12-29"
+    },
+    "pro_body":{
+	 "user_id":"123456",
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "cycle_type":"week",
+	 "from_date":"2019-12-23",
+	 "to_date":"2019-12-29"
+	}
+  },
+
+  "getdata_activity_goods_sold": {
+    "method": "GET",
+    "path": "/sp/activity_goods_sold",
+    "test_body":{
+      "user_id":"123456",
+      "organization_id":"285",
+      "shop_id":"c37269f3-d393-4864-afa7-0d159f8c114c",
+      "cycle_type":"week",
+      "from_date":"2019-12-23",
+      "to_date":"2019-12-29"
+    },
+    "pro_body":{
+	 "user_id":"123456",
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "cycle_type":"week",
+	 "from_date":"2019-12-23",
+	 "to_date":"2019-12-29"
+	}
+  }
+}
+ 
+ 
+ 
+
+ 

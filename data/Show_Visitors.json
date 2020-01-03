@@ -1,0 +1,68 @@
+{
+  "getdata_show_visitors": {
+    "method": "GET",
+    "path": "/visitors/show_visitors",
+    "test_body":{
+	 "organization_id":"285",
+	 "shop_id":"eea52ffe-19be-4500-93f9-783659b9220a",
+	 "from_time":"2019-12-30 00:00:00",
+	 "to_time":"2019-12-30 23:59:59",
+	 "visit_count_from":0,
+	 "visit_count_to":0,
+	 "purchase_count_from":0,
+	 "purchase_count_to":0,
+	 "is_register":"0",
+	 "labels":[],
+	 "gender":"",
+	 "age_array":[],
+	 "sort":"desc",
+	 "page":1,
+	 "page_size":30
+	},
+    "pro_body":{
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "from_time":"2019-12-30 00:00:00",
+	 "to_time":"2019-12-30 23:59:59",
+	 "visit_count_from":0,
+	 "visit_count_to":0,
+	 "purchase_count_from":0,
+	 "purchase_count_to":0,
+	 "is_register":"0",
+	 "labels":[],
+	 "gender":"",
+	 "age_array":[],
+	 "sort":"desc",
+	 "page":1,
+	 "page_size":30
+	}
+  },
+
+  "getdata_show_no_visitors": {
+    "method": "GET",
+    "path": "/visitors/show_no_visitors",
+    "test_body":{
+	 "organization_id":"285",
+	 "shop_id":"eea52ffe-19be-4500-93f9-783659b9220a",
+	 "from_time":"2019-12-30 00:00:00",
+	 "to_time":"2019-12-30 23:59:59",
+	 "sort":"desc",
+	 "page":1,
+	 "page_size":30
+	},
+    "pro_body":{
+	 "organization_id":"92",
+	 "shop_id":"1fc9d22e-93f7-4704-9e58-7283f3533821",
+	 "from_time":"2019-12-30 00:00:00",
+	 "to_time":"2019-12-30 23:59:59",
+	 "sort":"desc",
+	 "page":1,
+	 "page_size":30
+	}
+  }
+}
+ 
+ 
+ 
+
+ 

@@ -1,0 +1,76 @@
+{
+  "getdata_number":{
+    "method":"POST",
+    "path":"/visitors/number",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id": "e1cee658-e7ae-4635-995b-85f90a110747",
+      "date_type": "0"
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "date_type": "0"
+    }
+  },
+
+  "getdata_money":{
+    "method":"POST",
+    "path":"/visitors/money",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id": "e1cee658-e7ae-4635-995b-85f90a110747",
+      "date_type": "1"
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "date_type": "1"
+    }
+  },
+
+  "getdata_gender":{
+    "method":"POST",
+    "path":"/visitors/gender",
+    "test_body":{
+      "organization_id": "285",
+      "shop_id": "e1cee658-e7ae-4635-995b-85f90a110747",
+      "date_type": "7"
+    },
+    "pro_body":{
+      "organization_id": "92",
+      "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+      "date_type": "7"
+    }
+  },
+
+   "getdata_new_old": {
+     "method": "POST",
+     "path": "/visitors/new_old",
+     "test_body": {
+       "organization_id": "285",
+       "shop_id": "e1cee658-e7ae-4635-995b-85f90a110747",
+       "date_type": "7"
+     },
+     "pro_body": {
+       "organization_id": "92",
+       "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+       "date_type": "7"
+     }
+   },
+
+    "getdata_purchase_conversion_rate": {
+      "method": "POST",
+      "path": "/visitors/purchase_conversion_rate",
+      "test_body": {
+        "organization_id": "285",
+        "shop_id": "e1cee658-e7ae-4635-995b-85f90a110747",
+        "date_type": "7"
+      },
+      "pro_body": {
+        "organization_id": "92",
+        "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+        "date_type": "7"
+      }
+    }
+}

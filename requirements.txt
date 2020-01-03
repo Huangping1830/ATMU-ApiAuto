@@ -1,0 +1,6 @@
+request=2.21.0
+jsonpath_rw=1.4.0
+pytest=4.0.2
+configparser=4.0.2
+xlrd=1.2.0
+xlutils=2.0.0

@@ -1,0 +1,31 @@
+{
+  "getdata_user_number":{
+    "method":"POST",
+    "path":"/rfm/user_number",
+    "test_body":{
+      "organization_id": "285"
+    },
+    "pro_body":{
+      "organization_id": "92" 
+    }
+  },
+
+  "getdata_portrait":{
+    "method":"POST",
+    "path":"/rfm/portrait",
+    "test_body":{
+	 "r":1,
+	 "f":1,
+	 "m":1,
+	 "organization_id":"285",
+	 "day":"90"
+	},
+    "pro_body":{
+	 "r":1,
+	 "f":1,
+	 "m":1,
+	 "organization_id":"92",
+	 "day":"90"
+	}
+  }
+}
