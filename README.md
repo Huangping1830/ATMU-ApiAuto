@@ -1,4 +1,4 @@
-### 1、Python 版本为3.7
+### 1、Python 版本为 3.7
 ### 2、本文主要提供qcloud apigateway加密方法，调用示例参考 Demo.py 文件
 ### 3、其他使用注意事项：
 
