@@ -43,7 +43,6 @@ def read_account(filename):
 if __name__ == "__main__":
     a = get_all_file()
     print(a)
-
     t = time.strptime('2019-01-31', format='%Y-%m-%d')
     print(t)
     times = time.strptime('1 may 2020', '%d %B %Y')
