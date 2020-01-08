@@ -34,7 +34,7 @@ def get_all_file(path = log_dir):
             file_list.append(os.path.join(cur_path,name))
     return file_list
 
-#暂无用
+#暂无用1
 def StrToTimestamp(Str=None,format='%Y %m %d'):
     if Str:
         timep = time.strptime(Str,format)
