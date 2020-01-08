@@ -18,7 +18,7 @@ def get_conf(conf_section,pathconf=None):
     if conf_section in conf.sections():
         for option in conf.options(conf_section):
             conf_result[option] = conf.get(conf_section, option)
-        WriteLog.log_done('Read configfile success!')
+        WriteLog.log_info('Read configfile success!')
         return conf_result
     else:
         WriteLog.log_error('"'+conf_section+'"'+" doesn't exist in configs.conf!")

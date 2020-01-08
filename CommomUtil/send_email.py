@@ -27,7 +27,7 @@ class SendEmail:
         server.sendmail(user,user_list,message.as_string())
         server.close()
 
-    def send_main(self,url,text):
+    def send_main(self,url=None,text=None,message="None"):
         # pass_num = float(len(pass_list))
         # fail_num = float(len(fail_list))
         # count_num = pass_num + fail_num
@@ -37,10 +37,14 @@ class SendEmail:
         user_list = ['pinghuang@tman.ai']
         t = time.strftime('%Y.%m.%d %H:%M:%S',time.localtime(time.time()))
         sub = '接口测试反馈'
-        _url = url
-        _text = text
-        content ="运行时间："+ t + '\n'+ "出错的接口：" + _url + '\n' + "返回结果：" + _text
+        if (url==None and text==None):
+            content="提示信息:"+ message
+        else:
+            _url = url
+            _text = text
+            content ="运行时间："+ t + '\n'+ "出错的接口：" + _url + '\n' + "返回结果：" + _text
         self.send_mail(user_list,sub,content)
+
 
 if __name__ == '__main__':
     sen = SendEmail()

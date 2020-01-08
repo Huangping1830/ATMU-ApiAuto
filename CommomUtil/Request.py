@@ -54,8 +54,8 @@ class Request(object):
             r = requests.get(url=url,params=url_data,headers=header)
         try:
             assert r.status_code == 200
-            log_done("url="+url)
-            log_done("response=" +r.text)
+            log_info("url="+url)
+            log_info("response=" +r.text)
         except:
             log_error("url="+url + " run error!")
             self.sendmail.send_main(url=url,text=r.text)
@@ -66,7 +66,11 @@ class Request(object):
         CaseNum = self.GetExcelData.get_case_lines()
         key=1
         while key < CaseNum:
-            self.go_on_run(key)
+            try:
+                self.go_on_run(key)
+            except requests.exceptions.ConnectionError:
+                print("requests.exceptions.ConnectionError")
+                self.sendmail.send_main("网络连接出现异常！")
             key +=1
 
 

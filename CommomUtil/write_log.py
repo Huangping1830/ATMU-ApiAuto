@@ -42,20 +42,20 @@ class WriteLog(object):
         WriteLog._write(WriteLog.run_file, log_type, msg)
 
     @staticmethod
-    def log_pass(msg):
-        WriteLog._log("pass", msg)
+    def log_info(msg):
+        WriteLog._log("INFO", msg)
 
     @staticmethod
-    def log_done(msg):
-        WriteLog._log("done", msg)
+    def log_debug(msg):
+        WriteLog._log("DEBUG", msg)
 
     @staticmethod
     def log_warn(msg):
-        WriteLog._log("warn", msg)
+        WriteLog._log("WARN", msg)
 
     @staticmethod
     def log_error(msg):
-        WriteLog._log("error", msg)
+        WriteLog._log("ERROR", msg)
 
 
 class TestRunError(Exception):
@@ -75,12 +75,12 @@ def log_warn(msg):
     WriteLog.log_warn(msg)
 
 
-def log_done(msg):
-    WriteLog.log_done(msg)
+def log_debug(msg):
+    WriteLog.log_debug(msg)
 
 
-def log_pass(msg):
-    WriteLog.log_pass(msg)
+def log_info(msg):
+    WriteLog.log_info(msg)
 
 if __name__ == "__main__":
     log_pass("成功")
