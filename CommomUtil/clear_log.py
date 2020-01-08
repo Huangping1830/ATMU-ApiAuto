@@ -45,7 +45,7 @@ def StrToTimestamp(Str=None,format='%Y %m %d'):
 
 
 def read_account(filename):
-    with open(filename, 'r+', encoding='gbk') as f:
+    with open(filename, 'r+', encoding='UTF-8') as f:
         res = f.readlines()
         f.seek(0)
         f.truncate()
