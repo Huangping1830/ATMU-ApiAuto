@@ -4,7 +4,6 @@
 '''
 import os
 import time
-from CommomUtil.write_log import WriteLog
 from path_dir import *
 
 def Clear_log():
@@ -52,5 +51,5 @@ def read_account(filename):
 if __name__ == "__main__":
     a = get_all_file()
     print(a)
-    
+
 
