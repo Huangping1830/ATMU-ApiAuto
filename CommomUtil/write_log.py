@@ -83,5 +83,5 @@ def log_info(msg):
     WriteLog.log_info(msg)
 
 if __name__ == "__main__":
-    log_pass("成功")
+    log_info("成功")
     log_error("fail")
