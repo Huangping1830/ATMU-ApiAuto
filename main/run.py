@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
-sys.path.append('../CommomUtil/')
+from sys import path
+path.append(0, sys.path[0]+'\\CommomUtil')
 from CommomUtil.Request import Request
 from CommomUtil.clear_log import *
 from CommomUtil.write_log import *
