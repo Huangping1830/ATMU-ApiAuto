@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34467122-4430-48fb-9254-36c6c01a499a" name="Default" comment="" />
+    <list default="true" id="34467122-4430-48fb-9254-36c6c01a499a" name="Default" comment="日志格式">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CommomUtil/Check_Response_Hope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommomUtil/Request.py" beforeDir="false" afterPath="$PROJECT_DIR$/CommomUtil/Request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommomUtil/clear_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/CommomUtil/clear_log.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,53 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1287">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-              <folding>
-                <element signature="e#24#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Run.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Log/Run.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider">
-            <state relative-caret-position="-17179">
-              <caret line="3647" selection-start-line="3647" selection-end-line="3647" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="operation_json.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommomUtil/operation_json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clear_log.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="clear_log.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CommomUtil/clear_log.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
-              <folding>
-                <element signature="e#53#62#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="590">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_strptime.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python35/Lib/_strptime.py">
+      <file leaf-file-name="Run.log" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/log/Run.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="-3016">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="336" selection-start-line="336" selection-end-line="336" />
+            <state relative-caret-position="590">
+              <caret line="65" column="13" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -65,8 +47,8 @@
       <file leaf-file-name="Request.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CommomUtil/Request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+            <state relative-caret-position="-433">
+              <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
               <folding>
                 <element signature="e#26#79#0" expanded="true" />
               </folding>
@@ -74,11 +56,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Check_Response_Hope.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CommomUtil/Check_Response_Hope.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="send_email.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CommomUtil/send_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="264">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -109,7 +109,16 @@
       <replace>json_file_path</replace>
       <replace>file_path</replace>
       <replace>GET</replace>
+      <replace>WriteLog.log_info</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v1.0" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,12 +141,9 @@
         <option value="$PROJECT_DIR$/tmans-15.py" />
         <option value="$PROJECT_DIR$/com/qcloudapigateway/auth/sign.py" />
         <option value="$PROJECT_DIR$/POI_test.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/CommomUtil/operation_json-1.py" />
         <option value="$PROJECT_DIR$/Stat_face2order_num/Stat_face2order.py" />
-        <option value="$PROJECT_DIR$/path_dir.py" />
         <option value="$PROJECT_DIR$/config/configs.conf" />
-        <option value="$PROJECT_DIR$/config/read_conf.py" />
         <option value="$PROJECT_DIR$/config/data_config.py" />
         <option value="$PROJECT_DIR$/config/depend_data.py" />
         <option value="$PROJECT_DIR$/CommomUtil/operation_json.py" />
@@ -149,33 +155,42 @@
         <option value="$PROJECT_DIR$/data/Group_Portrait.json" />
         <option value="$PROJECT_DIR$/TestCase/test.txt" />
         <option value="$PROJECT_DIR$/TestCase/write_test.py" />
-        <option value="$PROJECT_DIR$/CommomUtil/write_log.py" />
         <option value="$PROJECT_DIR$/TestCase/POI_test.py" />
         <option value="$PROJECT_DIR$/TestCase/Test_json.py" />
         <option value="$PROJECT_DIR$/data/Shop_Portrait.json" />
         <option value="$PROJECT_DIR$/data/Shop_Bulletin.json" />
         <option value="$PROJECT_DIR$/data/Show_Visitors.json" />
         <option value="$PROJECT_DIR$/config/get_excel_data.py" />
-        <option value="$PROJECT_DIR$/CommomUtil/send_email.py" />
-        <option value="$PROJECT_DIR$/CommomUtil/Request.py" />
         <option value="$PROJECT_DIR$/CommomUtil/operation_excel.py" />
-        <option value="$PROJECT_DIR$/main/run.py" />
         <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/path_dir.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/start.sh" />
+        <option value="$PROJECT_DIR$/CommomUtil/send_email.py" />
+        <option value="$PROJECT_DIR$/config/read_conf.py" />
+        <option value="$PROJECT_DIR$/CommomUtil/write_log.py" />
+        <option value="$PROJECT_DIR$/main/run.py" />
         <option value="$PROJECT_DIR$/CommomUtil/clear_log.py" />
+        <option value="$PROJECT_DIR$/CommomUtil/Check_Response_Hope.py" />
+        <option value="$PROJECT_DIR$/CommomUtil/Request.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1945" />
     <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,38 +201,58 @@
             <path>
               <item name="ATMU-ApiAuto" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATMU-ApiAuto" type="462c0819:PsiDirectoryNode" />
-              <item name="CommomUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ATMU-ApiAuto" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATMU-ApiAuto" type="462c0819:PsiDirectoryNode" />
-              <item name="Log" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATMU-ApiAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATMU-ApiAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="229" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../POI" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\02-workspace\ATMU-ApiAuto\main" />
+      <recent name="D:\02-workspace\ATMU-ApiAuto" />
+      <recent name="D:\02-workspace\ATMU-ApiAuto\TestCase" />
+      <recent name="D:\02-workspace\ATMU-ApiAuto\Stat_face2order_num\Face2order_data" />
+      <recent name="D:\02-workspace\ATMU-ApiAuto\Stat_face2order_num" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\02-workspace\ATMU-ApiAuto\data" />
       <recent name="D:\02-workspace\qcloud-apigateway-sign-demo-python-master" />
       <recent name="D:\02-workspace\qcloud-apigateway-sign-demo-python-master\data" />
       <recent name="D:\02-workspace\qcloud-apigateway-sign-demo-python-master\dataconfig" />
       <recent name="D:\02-workspace\qcloud-apigateway-sign-demo-python-master\util" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\02-workspace\ATMU-ApiAuto" />
-      <recent name="D:\02-workspace\ATMU-ApiAuto\TestCase" />
-      <recent name="D:\02-workspace\ATMU-ApiAuto\Stat_face2order_num\Face2order_data" />
-      <recent name="D:\02-workspace\ATMU-ApiAuto\Stat_face2order_num" />
-      <recent name="D:\02-workspace\qcloud-apigateway-sign-demo-python-master\CommomUtil" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,25 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.clear_log">
-    <configuration name="POI_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="qcloud-apigateway-sign-demo-python-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/POI_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.run">
     <configuration name="Request" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="qcloud-apigateway-sign-demo-python-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +334,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="SCRIPT_NAME" value="D:\02-workspace\ATMU-ApiAuto\main\run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qcloud-apigateway-sign-demo-python-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,17 +380,17 @@
       <item itemvalue="Python.send_email" />
       <item itemvalue="Python.Request" />
       <item itemvalue="Python.Test_json" />
-      <item itemvalue="Python.POI_test" />
       <item itemvalue="Python.run " />
       <item itemvalue="Python.clear_log" />
+      <item itemvalue="Python.run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.Request" />
         <item itemvalue="Python.clear_log" />
         <item itemvalue="Python.run " />
-        <item itemvalue="Python.Request" />
         <item itemvalue="Python.Test_json" />
-        <item itemvalue="Python.POI_test" />
       </list>
     </recent_temporary>
   </component>
@@ -370,17 +405,103 @@
       <option name="presentableId" value="Default" />
       <updated>1564455173338</updated>
     </task>
+    <task id="LOCAL-00001" summary="README修改">
+      <created>1578040079497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578040079497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RE">
+      <created>1578042549657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578042549657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MM11:14">
+      <created>1578366883795</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578366883795</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加日誌信息">
+      <created>1578468222929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578468222929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新111">
+      <created>1578468401572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578468401572</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新1">
+      <created>1578468650939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578468650939</updated>
+    </task>
+    <task id="LOCAL-00007" summary="更新-1">
+      <created>1578469477845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578469477845</updated>
+    </task>
+    <task id="LOCAL-00008" summary="路径更新">
+      <created>1578474276283</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578474276283</updated>
+    </task>
+    <task id="LOCAL-00009" summary="路径更新">
+      <created>1578474607390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578474607390</updated>
+    </task>
+    <task id="LOCAL-00010" summary="路径更新">
+      <created>1578474947489</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578474947489</updated>
+    </task>
+    <task id="LOCAL-00011" summary="时间更新">
+      <created>1578475176084</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578475176084</updated>
+    </task>
+    <task id="LOCAL-00012" summary="日志格式">
+      <created>1578475698520</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578475698520</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13435195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13435195" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.12328767" side_tool="true" visible="true" weight="0.38793105" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.12486828" side_tool="true" visible="true" weight="0.23840345" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49894625" weight="0.201726" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8767123" weight="0.38793105" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8751317" visible="true" weight="0.23840345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297414" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -416,6 +537,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README修改" />
+    <MESSAGE value="RE" />
+    <MESSAGE value="MM11:14" />
+    <MESSAGE value="添加日誌信息" />
+    <MESSAGE value="更新111" />
+    <MESSAGE value="更新1" />
+    <MESSAGE value="更新-1" />
+    <MESSAGE value="路径更新" />
+    <MESSAGE value="时间更新" />
+    <MESSAGE value="日志格式" />
+    <option name="LAST_COMMIT_MESSAGE" value="日志格式" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -434,13 +568,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo(3).py" />
-    <entry file="file://$PROJECT_DIR$/face_notify.py" />
-    <entry file="file://$PROJECT_DIR$/../apiProject/runner/testrunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Interface/data/data_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2211">
@@ -468,31 +595,10 @@
     <entry file="file://$PROJECT_DIR$/tmans-15.py" />
     <entry file="file://$PROJECT_DIR$/POI_test.py" />
     <entry file="file://$PROJECT_DIR$/CommomUtil/operation_excel_1.py" />
-    <entry file="file://$PROJECT_DIR$/com/qcloudapigateway/auth/sign.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Stat_face2order_num/Stat_face2order.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/path_dir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -522,24 +628,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log/Error.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-274">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/tmans-15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Stat_Visitors.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1906">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -578,13 +670,6 @@
           <folding>
             <element signature="e#1131#1140#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1313743207/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108075">
-          <caret line="3275" column="12" selection-start-line="3275" selection-start-column="12" selection-end-line="3275" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -646,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/read_conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/get_excel_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -667,35 +745,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommomUtil/write_log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1201">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CommomUtil/t_excel.py" />
     <entry file="file://$PROJECT_DIR$/CommomUtil/operation_json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="33">
           <caret line="9" column="34" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommomUtil/Request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
-          <folding>
-            <element signature="e#26#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CommomUtil/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -706,30 +760,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log/Run.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-17179">
-          <caret line="3647" selection-start-line="3647" selection-end-line="3647" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
+    <entry file="file://$PROJECT_DIR$/path_dir.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1287">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        <state relative-caret-position="429">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/qcloudapigateway/auth/sign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Stat_Visitors.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1313743207/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="800" column="4" lean-forward="true" selection-start-line="800" selection-start-column="4" selection-end-line="800" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/read_conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommomUtil/show_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommomUtil/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommomUtil/Check_Response_Hope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommomUtil/write_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="85" column="12" selection-start-line="85" selection-start-column="12" selection-end-line="85" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CommomUtil/Request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-433">
+          <caret line="66" column="27" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
           <folding>
-            <element signature="e#24#62#0" expanded="true" />
+            <element signature="e#26#79#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CommomUtil/clear_log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="46" column="54" lean-forward="true" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="54" />
-          <folding>
-            <element signature="e#53#62#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="590">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Run.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-3016">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>

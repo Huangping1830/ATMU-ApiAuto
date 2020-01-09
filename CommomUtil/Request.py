@@ -57,11 +57,14 @@ class Request(object):
             log_info("url="+url)
             log_info("response=" +r.text)
         except:
-            log_error("url="+url + " run error!")
-            self.sendmail.send_main(url=url,text=r.text)
+            log_error("url="+url + "，返回码不是200")
+            self.sendmail.send_main(url=url,text=r.text,message="接口返回码不是200")
             time.sleep(100)
-
-
+        res = '"code":200'
+        if res not in r.text:
+            log_error("url=" + url + "，code不是200")
+            self.sendmail.send_main(url=url, text=r.text, message="code不是200")
+            time.sleep(100)
     def run(self):
         CaseNum = self.GetExcelData.get_case_lines()
         key=1

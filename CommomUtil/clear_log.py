@@ -45,7 +45,8 @@ def StrToTimestamp(Str=None,format='%Y %m %d'):
 
 
 def read_account(filename):
-    with open(filename, 'r+', encoding='UTF-8') as f:
+    #本地跑用GBK,不然存储乱码；Linux改为UTF-8，不然报错；
+    with open(filename, 'r+', encoding='GBK') as f:
         res = f.readlines()
         f.seek(0)
         f.truncate()
@@ -53,5 +54,6 @@ def read_account(filename):
 if __name__ == "__main__":
     a = get_all_file()
     print(a)
+    Clear_log()
 
 
