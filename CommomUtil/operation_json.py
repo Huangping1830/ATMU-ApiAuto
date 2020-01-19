@@ -12,7 +12,7 @@ class OperationJson:
     #读取json文件
     def read_data(self):
         #防止文件打开后，忘记关闭，with..as 会自动关闭文件！！！
-        with open(self.json_file_path) as fp:
+        with open(self.json_file_path,encoding='utf-8') as fp:
             data = json.load(fp)   #加载json文件
             return data
 

@@ -76,5 +76,5 @@ if __name__ == "__main__":
         ShopBulletin()
         WriteLog.log_info("第" + str(flog) + "次循环结束。。。")
         flog = flog + 1
-        time.sleep(600)
+        time.sleep(60)
 

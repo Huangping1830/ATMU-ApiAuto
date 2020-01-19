@@ -1,0 +1,480 @@
+{
+    "RECORDS": [
+        {
+            "person_id": "a6be9831-9188-4ad1-9b88-6043049c5b61",
+            "shop_id": "5afa5340-bb24-0136-54fe-52540053381b",
+            "organization_id": "1",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "695b9d74-6904-4af4-9513-0f59e685b570",
+            "shop_id": "0f264b4e-6a87-4818-b4cb-da063462dae5",
+            "organization_id": "87",
+            "label_name": "店长",
+            "label_value": "店长"
+        },
+        {
+            "person_id": "3ec40f75-ef77-475e-97ba-473fd6180d19",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "8f60577e-ae72-43ca-8c20-2a28509cd143",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "32bc49f4-2133-4cc7-9f01-b156b9866219",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "91f37f52-0125-4dc9-b9a6-353ac41738da",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "1c3ed105-b88b-4180-9382-f8380a4ec62c",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "1292ddd6-f5ce-473c-b81e-f38fb9ed57c6",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "796f3a07-a3ff-4049-a05d-5cb8270d5066",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "ec64476d-fa45-4e82-9d21-19fd7379a1f7",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "2928e91d-5bfb-41cd-977e-bd4664a4de25",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "b627db03-9b16-4bd0-9b5a-9b74a7345857",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "f8d568e9-20f7-432e-9965-741beb64adff",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "09e70fd0-6a35-4738-ba02-13f68a70fc72",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "0d62ff48-9aee-4ff1-bc2a-7e424dc32332",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "6ec54aa0-e1e6-484f-a969-56e31925bae5",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "a14e6095-6eca-4cec-9b94-4a2ece79b9a3",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "4d98a88d-1390-413b-929b-4158356f66b4",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "8d729b02-1928-4061-934b-8dd5cfbd4de4",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "b2f77454-c306-4607-8e9d-2946dedd5ced",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "47862914-d197-4647-bf40-59183abbad31",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "外卖小哥",
+            "label_value": "外卖小哥"
+        },
+        {
+            "person_id": "ea5a3eca-c18b-4e47-9bf0-599bb9ce070c",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "1c3ed105-b88b-4180-9382-f8380a4ec62c",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "be2acbf1-7223-407e-be5b-4a07796f322a",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "1292ddd6-f5ce-473c-b81e-f38fb9ed57c6",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "ec64476d-fa45-4e82-9d21-19fd7379a1f7",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "b2f77454-c306-4607-8e9d-2946dedd5ced",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "0cfd089f-2dbd-4aa1-9fb1-479001c4c05e",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "6945563c-1c7a-46ce-9b59-4086df1f119e",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "97c80add-791b-467d-8bf1-063b05b9909a",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "0a84e040-c441-4561-b648-5e93fc1a253b",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "47862914-d197-4647-bf40-59183abbad31",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝妈",
+            "label_value": "宝妈"
+        },
+        {
+            "person_id": "be2acbf1-7223-407e-be5b-4a07796f322a",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝爸",
+            "label_value": "宝爸"
+        },
+        {
+            "person_id": "507d4b90-0f4a-4fc4-9ba0-b94be6e16d05",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝爸",
+            "label_value": "宝爸"
+        },
+        {
+            "person_id": "ec64476d-fa45-4e82-9d21-19fd7379a1f7",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝爸",
+            "label_value": "宝爸"
+        },
+        {
+            "person_id": "6ce33e58-5f00-4dee-bcb2-990722bb575b",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝爸",
+            "label_value": "宝爸"
+        },
+        {
+            "person_id": "7aacc111-d0e1-4eb3-b2aa-90f09ceabc23",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝爸",
+            "label_value": "宝爸"
+        },
+        {
+            "person_id": "b2f77454-c306-4607-8e9d-2946dedd5ced",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝爸",
+            "label_value": "宝爸"
+        },
+        {
+            "person_id": "47862914-d197-4647-bf40-59183abbad31",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "宝爸",
+            "label_value": "宝爸"
+        },
+        {
+            "person_id": "81e1e7de-98c2-4f9b-bdde-e349ed469051",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "afa3131d-e960-41bd-83a9-414c3a2c15c6",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "1c3ed105-b88b-4180-9382-f8380a4ec62c",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "1292ddd6-f5ce-473c-b81e-f38fb9ed57c6",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "32bc49f4-2133-4cc7-9f01-b156b9866219",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "47ca22be-f561-4d02-b119-4533fcd0ed10",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "09e70fd0-6a35-4738-ba02-13f68a70fc72",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "7aacc111-d0e1-4eb3-b2aa-90f09ceabc23",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "0d62ff48-9aee-4ff1-bc2a-7e424dc32332",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "4d98a88d-1390-413b-929b-4158356f66b4",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "6945563c-1c7a-46ce-9b59-4086df1f119e",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "97c80add-791b-467d-8bf1-063b05b9909a",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "0a84e040-c441-4561-b648-5e93fc1a253b",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "47862914-d197-4647-bf40-59183abbad31",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "1f503884-be9a-4867-9787-793f35163e55",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "高品质消费",
+            "label_value": "高品质消费"
+        },
+        {
+            "person_id": "78be2295-9387-4337-9e4d-a7d8e5551756",
+            "shop_id": "0d32eea7-1d40-41f3-b2ae-efdf9d56ddfe",
+            "organization_id": "92",
+            "label_name": "大学生",
+            "label_value": "大学生"
+        },
+        {
+            "person_id": "b62c3e3f-5bc4-43a2-9d24-e3b7072e4b42",
+            "shop_id": "0d32eea7-1d40-41f3-b2ae-efdf9d56ddfe",
+            "organization_id": "92",
+            "label_name": "大学生",
+            "label_value": "大学生"
+        },
+        {
+            "person_id": "1292ddd6-f5ce-473c-b81e-f38fb9ed57c6",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "ec64476d-fa45-4e82-9d21-19fd7379a1f7",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "83fab1b6-37ed-40d1-9432-994b2b8288af",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "09e70fd0-6a35-4738-ba02-13f68a70fc72",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "0d62ff48-9aee-4ff1-bc2a-7e424dc32332",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "6945563c-1c7a-46ce-9b59-4086df1f119e",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "b2f77454-c306-4607-8e9d-2946dedd5ced",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "47862914-d197-4647-bf40-59183abbad31",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "1f503884-be9a-4867-9787-793f35163e55",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "新青年",
+            "label_value": "新青年"
+        },
+        {
+            "person_id": "4f2bc599-06c7-4579-b83b-017e8c776bbe",
+            "shop_id": "e2a85e92-f52e-11e7-acb2-0a58ac130221",
+            "organization_id": "1",
+            "label_name": "店员",
+            "label_value": "店员"
+        },
+        {
+            "person_id": "81d490a2-24d3-469e-a1c9-6da041abfa5c",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "职场女性",
+            "label_value": "职场女性"
+        },
+        {
+            "person_id": "81d490a2-24d3-469e-a1c9-6da041abfa5c",
+            "shop_id": "1fc9d22e-93f7-4704-9e58-7283f3533821",
+            "organization_id": "92",
+            "label_name": "女明星",
+            "label_value": "女明星"
+        }
+    ]
+}

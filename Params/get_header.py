@@ -1,6 +1,6 @@
 #coding:utf-8
 
-from com.qcloudapigateway.auth import sign
+from com.qcloudapigateway.auth import signl
 from config.read_conf import get_conf
 from CommomUtil.operation_excel import OperationExcel
 from path_dir import *
@@ -35,7 +35,7 @@ class GetHeader:
         SecretKey= self.secret["SecretKey"]
         Source = self.secret["Source"]
         header= self.test_header_default(Oper_envir)
-        sign1,dateTime = sign.getSimpleSign(Source, SecretId, SecretKey)
+        sign1,dateTime = signl.getSimpleSign(Source, SecretId, SecretKey)
         header['Authorization'] = sign1
         header['Date'] = dateTime
         header['Source'] = Source
