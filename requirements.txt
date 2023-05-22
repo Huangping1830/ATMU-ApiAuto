@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.31.0
 jsonpath_rw==1.4.0
 pytest==4.0.2
 configparser==4.0.2
